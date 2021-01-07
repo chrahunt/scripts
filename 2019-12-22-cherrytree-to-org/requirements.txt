@@ -2,5 +2,5 @@ Click==7.0
 click-log==0.3.2
 gitdb2==2.0.6
 GitPython==3.0.5
-lxml==4.4.2
+lxml==4.6.2
 smmap2==2.0.5
